@@ -6,11 +6,11 @@ draft: false
 
 HI~ 
 
-文档使用方法
 
 
+![IMG_0212](../../static/images/IMG_0212.jpeg)
 
 成功的没有捷径
 
-![IMG_0174](/IMG_0174.jpeg)~ 
+
 
