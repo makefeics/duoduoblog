@@ -1,4 +1,4 @@
 git init
 git add .
 git commit -m "some changes"
-git commit -u origin + master
+git push -u origin + master
