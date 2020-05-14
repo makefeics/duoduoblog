@@ -6,9 +6,9 @@ draft: false
 
 HI~ 
 
+![IMG_0174](../../static/typoraback/IMG_0174.jpeg)
 
 
-![IMG_0212](../../static/images/IMG_0212.jpeg)
 
 成功的没有捷径
 
