@@ -6,6 +6,18 @@ draft: false
 
 HI~ 
 
+试试看
+
+### 小朵游记
+
+![IMG_0190](../../static/typoraback/IMG_0190.jpeg)
+
+
+
+临时冻结大来看看
+
+dsfasf
+
 ![IMG_0174](../../static/typoraback/IMG_0174.jpeg)
 
 
